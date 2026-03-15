@@ -1,7 +1,7 @@
 //TESTING ACCESS CONTROL
-const CURRENT_VERSION = "v2";
+const CURRENT_VERSION = "v11";
 const allowedKeys = [
-    "ATL-CLIENT-1077"
+    "ATL-CLIENT-1078"
 ];
 
 const params = new URLSearchParams(window.location.search);
